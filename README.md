@@ -1,6 +1,5 @@
-Here is a simple and clean README.md for your Chess Game project.
 
-♟️ Simple JavaScript Chess Game
+** ♟️  Chess Game
 This is a classic two-player Chess game built entirely using fundamental web technologies: HTML, CSS, and vanilla JavaScript.
 
 ✨ Features
