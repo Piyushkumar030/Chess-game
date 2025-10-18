@@ -1,31 +1,38 @@
+# ♟️ Classic Two-Player Chess Game
 
-** ♟️  Chess Game
-This is a classic two-player Chess game built entirely using fundamental web technologies: HTML, CSS, and vanilla JavaScript.
+## Project Overview
 
-✨ Features
-Classic Two-Player Gameplay: Standard rules for check, checkmate, and turns.
+This is a **full-featured digital Chess game** built to showcase a strong foundation in core web development. It operates entirely client-side, using **vanilla JavaScript** for all logic, ensuring a lightweight and responsive experience.
 
-Complete Move Validation: Code handles all complex piece movements, including:
+## ✨ Key Features & Technical Highlights
 
-Pawn promotions.
+* [cite_start]**Complete Game Logic:** Implements all standard rules of Chess, including **Pawn Promotion**, **Castling**, and **En Passant**[cite: 1].
+* **Engineered Validation:** Features a robust, custom **move validation engine** written in JavaScript to ensure 100% adherence to official FIDE rules.
+* [cite_start]**Responsive UI/UX:** Designed with **CSS3 and HTML5** for a clean, intuitive, and **fully responsive board** that adapts seamlessly to desktop and mobile screens[cite: 1].
+* **Pure Front-End:** Zero dependencies—a showcase of pure **HTML, CSS, and JavaScript** proficiency.
 
-Correct validation for special moves.
+## 🚀 How to Run the Project
 
-Clean Interface: A responsive board design that works well on different screen sizes.
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/Piyushkumar030/Chess-game.git](https://github.com/Piyushkumar030/Chess-game.git)
+    ```
+2.  **Open the File:** Navigate to the cloned folder and open **`index.html`** in any modern web browser.
+3.  **Play:** The game is ready for two players to begin immediately!
 
-🚀 How to Play
-Clone the Repository (or download the ZIP file).
+---
 
-Open index.html in your web browser.
+## 🛠️ Technologies Used
 
-The game will start immediately. Click and drag or click-to-move your pieces to play!
+| Technology | Purpose |
+| :--- | :--- |
+| **JavaScript (Vanilla)** | Core game engine, turn logic, and move validation. |
+| **HTML5** | Board structure and layout. |
+| **CSS3** | Styling, board aesthetics, and responsive design. |
 
-🛠️ Technologies Used
-HTML5: Structure
+---
 
-CSS3: Styling
+## 👨‍💻 Author
 
-JavaScript (Vanilla): Game logic and rules engine
-
-👨‍💻 Author
-Piyush Kumar Dey
+* **Piyush Kumar Dey**
+* [https://www.linkedin.com/in/piyush-kumar-dey-291b19342/]
