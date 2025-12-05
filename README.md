@@ -45,4 +45,15 @@ Players can enjoy a **smooth, interactive, and visually appealing Chess experien
 
 | Technology | Purpose |
 | :--- | :--- |
-| **React.j**
+| **React.js** | Front-end UI and responsive board rendering. |
+| **Material UI & Bootstrap** | Styling, layout, and enhanced user experience. |
+| **Node.js** | Server-side logic and API handling. |
+| **MongoDB** | Database for storing game states and move history. |
+| **Socket.io** | Real-time updates for move synchronization between players. |
+
+---
+
+## 👨‍💻 Author
+
+* **Piyush Kumar Dey**  
+* [LinkedIn](https://www.linkedin.com/in/piyush-kumar-dey-291b19342/)
